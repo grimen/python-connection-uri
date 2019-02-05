@@ -70,7 +70,9 @@ description = 'A robust connection URI parser/stringifier - for Python.'
 keywords = [
     'connection-uri',
     'connection-url',
+    'database-uri',
     'database-url',
+    'server-uri',
     'server-url',
     'connection',
     'database',
@@ -81,6 +83,8 @@ keywords = [
     'deserializer',
     'packer',
     'unpacker',
+    'stringifier',
+    'parser',
     'multi-host',
 ]
 
