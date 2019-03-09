@@ -1,5 +1,5 @@
 
-# `connection-uri` [![Build Status](https://travis-ci.com/grimen/python-connection-uri.svg?branch=master)](https://travis-ci.com/grimen/python-connection-uri) [![PyPI version](https://badge.fury.io/py/connection-uri.svg)](https://badge.fury.io/py/connection-uri)
+# `connection-uri` [![PyPI version](https://badge.fury.io/py/connection-uri.svg)](https://badge.fury.io/py/connection-uri) [![Build Status](https://travis-ci.com/grimen/python-connection-uri.svg?branch=master)](https://travis-ci.com/grimen/python-connection-uri)
 
 *A robust connection URI parser/stringifier - for Python.*
 
