@@ -65,7 +65,7 @@ def get_requirements():
 # --------------------------------------
 
 name = 'connection_uri'
-version = '0.1.0'
+version = '0.1.1'
 description = 'A robust connection URI parser/stringifier - for Python.'
 keywords = [
     'connection-uri',
